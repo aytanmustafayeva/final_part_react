@@ -1,0 +1,74 @@
+.team__sec {
+  padding: 6.4rem 0;
+}
+.team__sec h2, .team__sec
+span {
+  font-family: Poppins;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 6rem;
+  text-align: center;
+}
+
+.teams {
+  padding: 3.7rem 0;
+  display: flex;
+  flex-direction: row;
+  gap: 3.9rem;
+}
+
+.team__members img {
+  width: 22.7rem;
+  height: 28.5rem;
+}
+
+.team__members {
+  width: 344px;
+  padding:6rem 0;
+  box-shadow: 4px 0px 12px 0px #e48e3352;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.team__members h6 {
+  font-family: Poppins;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 4.05rem;
+  text-align: center;
+}
+
+.team__members > .link__mail {
+  font-family: Poppins;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 3rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 320px) {
+  .team__sec h2, .team__sec
+  span {
+    font-size: 3rem;
+  }
+
+  .teams {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .team__members {
+    width: 95%;
+  }
+
+  .team__members h6 {
+    font-size: 2rem;
+  }
+
+  .team__members > .link__mail {
+    font-size: 1rem;
+  }
+}

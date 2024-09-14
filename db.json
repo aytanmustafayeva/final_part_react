@@ -1,0 +1,313 @@
+{
+  "en": {
+    "services": "Our Services",
+    "projects": "Projects",
+    "contact": "Contact Us",
+    "about": "About Us",
+    "blogs": "Blogs",
+    "searchPlaceholder": "Search"
+  },
+  "ru": {
+    "services": "Наши услуги",
+    "projects": "Проекты",
+    "contact": "Свяжитесь с нами",
+    "about": "О нас",
+    "blogs": "Блоги",
+    "searchPlaceholder": "Поиск"
+  },
+  "az": {
+    "services": "Xidmətlərimiz",
+    "projects": "Layihələr",
+    "contact": "Bizimlə əlaqə",
+    "about": "Haqqımızda",
+    "blogs": "Bloqlar",
+    "searchPlaceholder": "Axtar"
+  },
+
+
+  
+  "services": [
+    {
+      "id": 1,
+      "title": "Electrical and Mechanical 1",
+      "description": "Build modern web applications using React, Node.js, and more.",
+      "image": "./src/assets/contact_head_back_img.jfif"
+    },
+    {
+      "id": 2,
+      "title": "Electrical and Mechanical 2",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/pro-serv-img.png"
+    },
+    {
+      "id": 3,
+      "title": "Electrical and Mechanical 3",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/service-detail-img.png"
+    },
+    {
+      "id": 4,
+      "title": "Electrical and Mechanical 4",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/service-head-back-img.png"
+    },
+    {
+      "id": 5,
+      "title": "Electrical and Mechanical 5",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif"
+    },
+    {
+      "id": 6,
+      "title": "Electrical and Mechanical 6",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/projects-detail-img.png"
+    },
+    {
+      "id": 7,
+      "title": "Electrical and Mechanical 7",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/service-detail-img.png"
+    },
+    {
+      "id": 8,
+      "title": "Electrical and Mechanical 8",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/projects-detail-img.png"
+    },
+    {
+      "id": 9,
+      "title": "Electrical and Mechanical 9",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif"
+    },
+    {
+      "id": 10,
+      "title": "Electrical and Mechanical 10",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/pro-serv-img.png"
+    },
+    {
+      "id": 11,
+      "title": "Electrical and Mechanical 11",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/projects-detail-img.png"
+    },
+    {
+      "id": 12,
+      "title": "Electrical and Mechanical 12",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/contact_head_back_img.jfif"
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "Electrical and Mechanical 1",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/contact_head_back_img.jfif",
+      "date": "September 15, 2021",
+      "client": "Industrial Company",
+      "location": "New York, USA",
+      "category": "Home Protection"
+    },
+    {
+      "id": 2,
+      "title": "Electrical and Mechanical 2",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+      "date": "September 30, 2019",
+      "client": "Mechanical Company",
+      "location": "Toronto, CA",
+      "category": "Home Protection"
+    },
+    {
+      "id": 3,
+      "title": "Electrical and Mechanical 3",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/pro-serv-img.png",
+      "date": "October 15, 2023",
+      "client": "Industrial Company",
+      "location": "Chicago, USA",
+      "category": "Home Protection"
+    },
+    {
+      "id": 4,
+      "title": "Electrical and Mechanical 4",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/projects-detail-img.png",
+      "date": "March 20, 2020",
+      "client": "IT Company",
+      "location": "Berlin, Germany",
+      "category": "Home Protection"
+    },
+    {
+      "id": 5,
+      "title": "Electrical and Mechanical 5",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/service-head-back-img.png",
+      "date": "November 18, 2022",
+      "client": "Industrial Company",
+      "location": "New York, USA",
+      "category": "Home Protection"
+    },
+    {
+      "id": 6,
+      "title": "Electrical and Mechanical 6",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/service-detail-img.png",
+      "date": "September 15, 2021",
+      "client": "Industrial Company",
+      "location": "New York, USA",
+      "category": "Home Protection"
+    },
+    {
+      "id": 7,
+      "title": "Electrical and Mechanical 7",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/contact_head_back_img.jfif",
+      "date": "July 24, 2024",
+      "client": "Farmer Company",
+      "location": "Milan, taly",
+      "category": "Home Protection"
+    }
+  ],
+
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Blog Title 1",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/contact_head_back_img.jfif"
+    },
+    {
+      "id": 2,
+      "title": "Blog Title 2",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/"
+    },
+    {
+      "id": 3,
+      "title": "Blog Title 3",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/contact_head_back_img.jfif"
+    },
+    {
+      "id": 4,
+      "title": "Blog Title 4",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/projects-detail-img.png"
+    },
+    {
+      "id": 5,
+      "title": "Blog Title 5",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/pro-serv-img.png"
+    },
+    {
+      "id": 6,
+      "title": "Blog Title 6",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/contact_head_back_img.jfif"
+    },
+    {
+      "id": 7,
+      "title": "Blog Title 7",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif"
+    }
+  ],
+
+  "partners": [
+    {
+      "id": "1",
+      "image": "./src/assets/logo7.png"
+    },
+    {
+      "id": "2",
+      "image": "./src/assets/logo4.jpg"
+    },
+    {
+      "id": "3",
+      "image": "./src/assets/logo4.jpg"
+    },
+    {
+      "id": "4",
+      "image": "./src/assets/logo8.png"
+    },
+    {
+      "id": "5",
+      "image": "./src/assets/logo7.png"
+    },
+    {
+      "id": "6",
+      "image": "./src/assets/logo9.png"
+    },
+    {
+      "id": "7",
+      "image": "./src/assets/logo4.jpg"
+    },
+    {
+      "id": "8",
+      "image": "./src/assets/logo4.png"
+    },
+    {
+      "id": "9",
+      "image": "./src/assets/logo7.png"
+    },
+    {
+      "id": "10",
+      "image": "./src/assets/logo8.png"
+    },
+    {
+      "id": "11",
+      "image": "./src/assets/logo9.png"
+    },
+    {
+      "id": "12",
+      "image": "./src/assets/logo4.jpg"
+    },
+    {
+      "id": "13",
+      "image": "./src/assets/logo4.png"
+    },
+    {
+      "id": "14",
+      "image": "./src/assets/logo2.png"
+    },
+    {
+      "id": "15",
+      "image": "./src/assets/logo8.png"
+    },
+    {
+      "id": "16",
+      "image": "./src/assets/logo4.jpg"
+    },
+    {
+      "id": "17",
+      "image": "./src/assets/logo8.png"
+    },
+    {
+      "id": "18",
+      "image": "./src/assets/logo5.jpg"
+    },
+    {
+      "id": "19",
+      "image": "./src/assets/logo7.png"
+    },
+    {
+      "id": "20",
+      "image": "./src/assets/logo9.png"
+    }
+  ],
+  "about": [
+    {
+      "id": "1",
+      "title": "About EMS Contracting",
+      "description": "Founded by Mick Donkin and Kris Armstrong in 2013We incorporate 3 divisions: Smart-metering, Renewables and Recycling all from our head office in Sunderland.We employ a team of highly skilled engineers delivering multi-disciplinary projects which operate across the UK, offering a 24/7 service including emergency call out.We have a commitment to quality and a strong safety culture, ensuring that every job we do is completed correctly and safely. We pride oursleves on fostering a working culture that is based on our core values. This ensures the people that make EMS what it is can enjoy the best, most engaging and safe environment possible. It's the people and our values that we believe set us apart in the industry.",
+      "image": "./src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif"
+    },
+    {}
+  ]
+}
